@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Playfair+Display:ital,wght@1,400..900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>gallery</title>
+
+</head>
+<body>
+	<header>
+		 <a href="index.html">home</a>
+    <a href="about.html">introduce</a>
+    <a href="gallery.html">gallery</a>
+    <a href="contact.html">phone</a>
+	</header>
+	<h1>업로드용<h1>
+		<img src="images/i" alt="kite">
+<img src="images/2.jpg" alt="kite">
+<img src="images/3.jpg" alt="kite">
+<img src="images/4.jpg" alt="kite">
+<img src="images/5.jpg" alt="kite">
+<img src="images/6.jpg" alt="kite">
+<img src="images/7.jpg" alt="kite">
+<img src="images/8.jpg" alt="kite">
+<img src="images/9.jpg" alt="kite">
+<img src="images/10.jpg" alt="kite">
+<img src="images/i1.jpg" alt="kite">
+<img src="images/12.jpg" alt="kite" width="300" height="200">
+</body>
