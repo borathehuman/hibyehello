@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #D10016;
+  padding: 10px 30px;
+  text-align: left;
+}
+
+header a {
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: light;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+a { 
+  margin: 50px 100px;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-size: 40px;
+  font-weight: extrabold;
+  color: #00F7EF;
+}
+
+p {
+  padding: 25px 100px 25px 100px;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet">
